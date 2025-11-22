@@ -6,8 +6,11 @@ This repository houses the data wrangling and analysis used to produce true and 
 
 ## Repository structure
 **.gitignore**: git ignore contains instructions what files and folders the IDE should not track. The fire perimeter for this repository is contained in the gitignore to reduce runtime issues. 
+
 **README.md**: setup instructions.
+
 **hw4-task2-false-color-BONNET.ipynb**: the Jupyter notebook containing all data processing and outputs of analysis. 
+
 **landsat88-2025-02-23-palisades-eaton.nc**: NetCDF file that was transferred to be used remotely and locally within the repository
 
 ## Data
